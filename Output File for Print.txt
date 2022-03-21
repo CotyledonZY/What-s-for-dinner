@@ -1,0 +1,52 @@
+
+
+***** Day1 Meal Plan *****
+
+*** Veggie Dish ***
+No.1 - 西红柿炒鸡蛋
+No.8 - 烧茄子
+No.6 - 炒莴笋
+*** Meat Dish ***
+No.7 - 西红柿牛腩
+No.9 - 青椒炒肉丝
+*** Soup Dish ***
+No.3 - 五红汤
+
+
+***** Day2 Meal Plan *****
+
+*** Veggie Dish ***
+No.4 - 凉拌黄瓜
+No.3 - 清炒西葫芦
+No.9 - 芹菜炒香干
+*** Meat Dish ***
+No.5 - 烤午餐肉
+No.1 - 清蒸鱼
+*** Soup Dish ***
+No.5 - 味增汤
+
+
+***** Day3 Meal Plan *****
+
+*** Veggie Dish ***
+No.2 - 凉拌土豆丝
+No.10 - 红烧豆腐
+No.5 - 海带丝
+*** Meat Dish ***
+No.6 - 鸡丁
+No.4 - 腊肠炒莴笋
+*** Soup Dish ***
+No.1 - 西红柿鸡蛋汤
+
+
+***** Day4 Meal Plan *****
+
+*** Veggie Dish ***
+No.8 - 烧茄子
+No.3 - 清炒西葫芦
+No.7 - 煸扁豆
+*** Meat Dish ***
+No.6 - 鸡丁
+No.2 - 红烧排骨
+*** Soup Dish ***
+No.1 - 西红柿鸡蛋汤
